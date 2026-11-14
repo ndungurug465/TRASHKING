@@ -1,0 +1,6 @@
+{
+  "name": "Kessler Acoustic",
+  "description": "Architectural acoustics, custom timber resonance systems, and spatial sound engineering for performance halls, studios, and civic architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
